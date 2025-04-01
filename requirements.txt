@@ -6,3 +6,4 @@ feature_engineering
 klib
 streamlit
 stealit_option_menu
+missingno
