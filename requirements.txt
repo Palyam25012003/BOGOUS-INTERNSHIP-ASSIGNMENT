@@ -2,7 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
-feature_engineering
+feature-engine
 klib
 streamlit
 streamlit_option_menu
