@@ -5,5 +5,5 @@ seaborn
 feature_engineering
 klib
 streamlit
-stealit_option_menu
+streamlit_option_menu
 missingno
